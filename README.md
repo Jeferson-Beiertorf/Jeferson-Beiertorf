@@ -1,6 +1,7 @@
 Olá, Seja bem vind@!
 
 Me chamo Jeferson, sou estudante FULL STACK na <a href="https://github.com/future4code">Labenu</a>.
+  <img align="right" alt="Jeff-pic" height="150"  style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/850088625033969694/1022301297090777098/download20220903211820.png">
 
 Linguagens já aprendidas:
 <div style="display: inline_block"><br>
@@ -8,7 +9,6 @@ Linguagens já aprendidas:
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jeff-pic" height="150"  style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/850088625033969694/1022301297090777098/download20220903211820.png">
 </div>
 Linguagens que quero aprender:
 <div style="display: inline_block"><br>
