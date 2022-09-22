@@ -14,7 +14,7 @@ Conhecimentos adquiridos:
 </div>
 
 
-Linguagens que quero aprender:
+Conhecimentos que quero adquirir:
 <div style="display: inline_block"><br>
 <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
