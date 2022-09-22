@@ -1,7 +1,8 @@
+<div align="center">
 Olá, Seja bem vind@!
 
 Me chamo Jeferson, sou estudante FULL STACK na <a href="https://github.com/future4code">Labenu</a>.
-  <img align="right" alt="Jeff-pic" height="150"  style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/850088625033969694/1022301297090777098/download20220903211820.png">
+
 
 Conhecimentos adquiridos:
 <div style="display: inline_block"><br>
@@ -21,7 +22,7 @@ Conhecimentos que quero adquirir:
 <img align="center" alt="Jeff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Jeff-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-
+</div>
 ##
 
 <div align="center">
@@ -35,7 +36,7 @@ Conhecimentos que quero adquirir:
   
   ##
  
-<div> 
+<div align="center">
  
  
   ![Snake animation](https://github.com/Jeferson-Beiertorf/Jeferson-Beiertorf/blob/output/github-contribution-grid-snake.svg)
