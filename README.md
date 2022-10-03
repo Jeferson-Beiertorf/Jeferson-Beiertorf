@@ -12,7 +12,7 @@ Conhecimentos adquiridos:
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-GH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Jeff-GT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Jeff-GT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Jeff-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 
@@ -23,10 +23,12 @@ Conhecimentos que quero adquirir:
 <img align="center" alt="Jeff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Jeff-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-</div>
+
+
 ##
 
-<div align="center">
+
+<div align="center"><br>
   <a href="https://github.com/Jeferson-Beiertorf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Beiertorf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Beiertorf&layout=compact&langs_count=7&theme=dark"/>
