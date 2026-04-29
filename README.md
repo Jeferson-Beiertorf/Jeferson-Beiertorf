@@ -1,57 +1,44 @@
 <div align="center">
-Olá, Seja bem vind@!
 
-Me chamo Jeferson, sou estudante FULL STACK na <a href="https://github.com/future4code">Labenu</a>.
+### Jeferson Beiertorf
+**Desenvolvimento full stack** · APIs REST · interfaces web · integrações
 
-<br>
-<div align="center">
-Para saber mais sobre mim, basta acessar meu <a href="https://www.linkedin.com/in/jeferson-beiertorf/">LinkedIn</a>.
+Alvorada/RS · [LinkedIn](https://www.linkedin.com/in/jeferson-beiertorf/)
+
 </div>
 
-<br>
-<br>
-<br>
+---
 
-Conhecimentos adquiridos:
-<div style="display: inline_block">
-  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-GH" height="40" width="40" src="https://img.icons8.com/3d-fluency/344/github.png" />
-  <img align="center" alt="Jeff-GT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Jeff-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
+Sou desenvolvedor **full stack** com foco em **JavaScript/Node.js**, **React/Next.js** e backends em **Express**, incluindo autenticação, persistência com **Prisma** e integrações (por exemplo **Google Calendar / OAuth**). Formação técnica pelo **SENAI/RS**; trajetória também como técnico automotivo — hoje consolidando carreira em tecnologia.
 
-<br>
-<br>
+### Projeto em destaque
+- **[Estúdio Lindas](https://github.com/Jeferson-Beiertorf/Estudio_Lindas)** — app de agendamentos (Next.js + Express + Prisma), login Google e sincronização com agenda.
 
-Conhecimentos que quero adquirir:
-<div style="display: inline_block">
-<img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Jeff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Jeff-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</div>
+*(Substitua o link acima se o repositório tiver outro nome.)*
 
+---
 
-##
+### Stack principal
 
+<p align="center">
+  <img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;
+  <img alt="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;
+  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;
+  <img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  &nbsp;
+  <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  &nbsp;
+  <img alt="GitHub" height="36" src="https://img.icons8.com/fluency/48/github.png">
+</p>
 
-<div align="center"><br>
-  <a href="https://github.com/Jeferson-Beiertorf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Beiertorf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Beiertorf&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Em evolução
 
-
-
-  
-  ##
- 
-<div align="center">
- 
- 
-  ![Snake animation](https://github.com/Jeferson-Beiertorf/Jeferson-Beiertorf/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="center">
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  &nbsp;
+  <img alt="Python" height
